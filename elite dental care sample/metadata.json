@@ -1,0 +1,5 @@
+{
+  "name": "Elite Dental Care",
+  "description": "A high-end, modern dental clinic website featuring advanced dentistry, social proof, and seamless patient interaction.",
+  "requestFramePermissions": ["geolocation"]
+}
